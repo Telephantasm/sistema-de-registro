@@ -18,3 +18,6 @@ Podremos tener una correcta y justa distribucion para realizar esta actividad de
  
  4 - Comienza añadiendo tu lista de amigos
  
+<h1>
+  Diviertete!
+</h1>
