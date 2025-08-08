@@ -14,7 +14,7 @@ Podremos tener una correcta y justa distribucion para realizar esta actividad de
    
  2 - Doble click en el Archivo Amigo Secreto
  
- 3 - Se abrira una nueva pesta;a en tu navegador
+ 3 - Se abrira una nueva pestaña en tu navegador
  
  4 - Comienza añadiendo tu lista de amigos
  
