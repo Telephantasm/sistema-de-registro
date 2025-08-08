@@ -1,8 +1,8 @@
-<h1> Amigo Secreto </h1>
+<div align="center">
+<h1 align="center"> Amigo Secreto </h1>
 
-- Estado del proyecto:
-<img width="3000" height="1055" alt="concluido-es" src="https://github.com/user-attachments/assets/33e714e5-2cd8-4c26-973b-b4c8561d5cbe" />
-
+<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/f6ef63b8-de21-4233-ab9d-2e0ff8cbe4d6" />
+</div>
 <p> Esta Aplicacion nos ayuda a crear y almacenar una lista de nombres de aquellas personas con las que queremos realizar la conocida dinamica del Amigo Secreto. 
 Podremos tener una correcta y justa distribucion para realizar esta actividad de la forma mas ordenada y divertida.
 </p>
