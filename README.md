@@ -18,6 +18,18 @@ Podremos tener una correcta y justa distribucion para realizar esta actividad de
  
  4 - Comienza añadiendo tu lista de amigos
  
+ <img width="834" height="553" alt="Captura de pantalla 2025-08-08 100937" src="https://github.com/user-attachments/assets/f20363b6-1f34-4702-a97b-6c2f4f2c8ccd" />
+<div align ="center">
+<img width="272" height="424" alt="Captura de pantalla 2025-08-08 101007" src="https://github.com/user-attachments/assets/9aa40128-70d7-4ec4-be3f-bbf39ac7bf28" />
+</div> 
+Puedes añadir cuantos amigos quieras!
+
+Da ckick en Sortear Amigo y te dara el resultado!
+
+<div align ="center">
+<img width="381" height="142" alt="image" src="https://github.com/user-attachments/assets/a35f8865-65b3-42d3-a93a-b0706f40bca0" />
+</div> 
+
 <h1>
   Diviertete!
 </h1>
